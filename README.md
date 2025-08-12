@@ -28,3 +28,4 @@ The dataset used for this project is derived from the **KDD Cup 1999** benchmark
   - Attack types grouped into: **DoS**, **Probe**, **R2L (Remote to Local)**, and **U2R (User to Root)**
 
 This dataset provides both **labeled** and **unlabeled** network traffic, making it suitable for both **supervised** and **unsupervised** learning approaches.
+
